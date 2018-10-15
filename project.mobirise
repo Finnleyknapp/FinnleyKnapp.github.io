@@ -35,6 +35,8 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
+    "favicon": "@PROJECT_PATH@/assets/images/flk-logo-4k-128x128-1.png",
+    "noImageResize": "",
     "uniqCompNum": 3,
     "versionPublish": "4.8.1"
   },
