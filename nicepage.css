@@ -23873,11 +23873,11 @@ color: #000000; }
 .u-header .u-logo-image-1 {max-width: 64px; max-height: 64px}
 .u-header .u-menu-1 {margin: -64px 0 0 auto}
 .u-header .u-nav-2 {font-size: 1.25rem}
-.u-header .u-text-1 {width: 456px; font-weight: 700; text-shadow: 0 0 8px rgba(128,128,128,1); margin: -19px auto 0} 
+.u-header .u-text-1 {width: 456px; font-weight: 700; text-shadow: 0 0 8px rgba(128,128,128,1); margin: -19px auto 10px} 
 @media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 72px}
 .u-header .u-image-1 {width: 31px; height: 32px}
 .u-header .u-menu-1 {margin-bottom: 52px}
-.u-header .u-text-1 {width: 376px} }
+.u-header .u-text-1 {width: 376px; font-weight: normal; animation-duration: 1s; margin-bottom: 3px} }
 @media (max-width: 991px){ .u-header .u-image-1 {width: 24px}
 .u-header .u-text-1 {width: 288px} }
 @media (max-width: 767px){ .u-header .u-image-1 {width: 23px}
