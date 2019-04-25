@@ -1,0 +1,49 @@
+.u-section-1 {background-image: linear-gradient(0deg, rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url("images/LowPollyIsland.png")}
+.u-section-1 .u-sheet-1 {min-height: 800px}
+.u-section-1 .u-group-1 {width: 800px; min-height: 500px; height: auto; margin: 150px auto 150px 0}
+.u-section-1 .u-container-layout-1 {padding-left: 60px; padding-right: 60px}
+.u-section-1 .u-text-1 {margin: 164px 0 0}
+.u-section-1 .u-text-2 {margin: 31px 0 50px} 
+
+@media (max-width: 1199px){ .u-section-1 {background-position: 50% 50%}
+.u-section-1 .u-group-1 {width: 731px; margin-bottom: 80px}
+.u-section-1 .u-container-layout-1 {padding-left: 49px; padding-right: 49px}
+.u-section-1 .u-text-1 {margin-top: 50px}
+.u-section-1 .u-text-2 {margin-top: 30px} }
+
+@media (max-width: 991px){ .u-section-1 .u-group-1 {width: 666px}
+.u-section-1 .u-container-layout-1 {padding-left: 38px; padding-right: 38px} }
+
+@media (max-width: 767px){ .u-section-1 .u-group-1 {margin-right: initial; margin-left: initial; width: auto}
+.u-section-1 .u-container-layout-1 {padding-left: 28px; padding-right: 28px} }
+
+@media (max-width: 575px){ .u-section-1 .u-group-1 {width: 340px; margin-right: auto; margin-left: 0}
+.u-section-1 .u-container-layout-1 {padding-left: 18px; padding-right: 18px} }.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-image-1 {width: 400px; height: 400px; box-shadow: 0 0 8px 0 rgba(128,128,128,1); margin: 50px auto} 
+
+@media (max-width: 1199px){ .u-section-2 .u-image-1 {width: 330px; height: 330px} }
+
+@media (max-width: 991px){ .u-section-2 .u-image-1 {width: 253px; height: 253px} }
+
+@media (max-width: 767px){ .u-section-2 .u-image-1 {width: 237px; height: 237px} }
+
+@media (max-width: 575px){ .u-section-2 .u-image-1 {width: 199px; height: 199px} }.u-section-3 {background-image: none}
+.u-section-3 .u-sheet-1 {min-height: 500px}
+.u-section-3 .u-image-1 {width: 940px; height: 400px; box-shadow: 0 0 8px 0 rgba(128,128,128,1); margin: 50px auto 0} 
+
+@media (max-width: 1199px){ .u-section-3 .u-image-1 {width: 775px; height: 330px} }
+
+@media (max-width: 991px){ .u-section-3 .u-image-1 {width: 594px; height: 253px} }
+
+@media (max-width: 767px){ .u-section-3 .u-image-1 {width: 540px; height: 237px} }
+
+@media (max-width: 575px){ .u-section-3 .u-image-1 {width: 340px; height: 199px} }.u-section-4 .u-sheet-1 {min-height: 500px}
+.u-section-4 .u-video-1 {width: 1140px; left: -1px; right: auto} 
+
+@media (max-width: 1199px){ .u-section-4 .u-video-1 {width: 940px} }
+
+@media (max-width: 991px){ .u-section-4 .u-video-1 {width: 720px} }
+
+@media (max-width: 767px){ .u-section-4 .u-video-1 {width: 540px; left: 0} }
+
+@media (max-width: 575px){ .u-section-4 .u-video-1 {width: 340px} }
